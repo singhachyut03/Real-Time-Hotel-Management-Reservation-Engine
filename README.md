@@ -95,4 +95,4 @@ npm run build
 ---
 
 ## 📄 License
-MIT License. Built with ❤️ for StayOps Grand & Suites.
+MIT License. Built with ❤️ for StayOps Grand & Suites..
